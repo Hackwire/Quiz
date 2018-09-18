@@ -1,2 +1,3 @@
 # Quiz
-A quiz translated from Python into Java
+A quiz translated from Python into Java working on create a user registation feature that out puts the score of both tests and name into a file 
+Any help with file handling in java will be appreciated!!
